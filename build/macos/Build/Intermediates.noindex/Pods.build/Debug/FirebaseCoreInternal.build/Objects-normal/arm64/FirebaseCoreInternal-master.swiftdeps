@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "6d861eea625ea3595e2f6feb221edf608df21f58857eaed398c849c66567eff4"
+build_start_time: [1680023491, 37919998]
+build_end_time: [1680023502, 983576059]
+inputs:
+  ? "/Users/yohanndicrescenzo/Desktop/PORTFOLIO/first_flutter_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1680023458, 105000495]
+  ? "/Users/yohanndicrescenzo/Desktop/PORTFOLIO/first_flutter_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1680023458, 105418205]
+  ? "/Users/yohanndicrescenzo/Desktop/PORTFOLIO/first_flutter_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1680023458, 105676174]
+  ? "/Users/yohanndicrescenzo/Desktop/PORTFOLIO/first_flutter_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1680023458, 105802536]
+  ? "/Users/yohanndicrescenzo/Desktop/PORTFOLIO/first_flutter_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1680023458, 106103420]
+  ? "/Users/yohanndicrescenzo/Desktop/PORTFOLIO/first_flutter_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1680023458, 105143547]
+  ? "/Users/yohanndicrescenzo/Desktop/PORTFOLIO/first_flutter_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : [1680023458, 104831695]
+  ? "/Users/yohanndicrescenzo/Desktop/PORTFOLIO/first_flutter_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1680023458, 106247901]
+  ? "/Users/yohanndicrescenzo/Desktop/PORTFOLIO/first_flutter_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1680023458, 105944633]
+  ? "/Users/yohanndicrescenzo/Desktop/PORTFOLIO/first_flutter_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1680023458, 105288267]
+  ? "/Users/yohanndicrescenzo/Desktop/PORTFOLIO/first_flutter_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1680023458, 105545997]
